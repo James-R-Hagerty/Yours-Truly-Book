@@ -1,7 +1,12 @@
-
+#logo {
+    height:50px;
+    margin-bottom:20px;
+    margin-top:20px;
+}
 
 #cover-img {
-    height:600px;
+    /*height:600px;*/
+    width:90%;
     box-shadow: 3.4px 6.7px 6.7px hsl(0deg 0% 0% / 0.40);
     margin-left:20%;
 }
@@ -49,4 +54,5 @@
 #order-button {
     background-color:#e71c22;
     border-color:#e71c22;
+    font-weight:bold;
 }
